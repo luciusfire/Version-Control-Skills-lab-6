@@ -1,2 +1,2 @@
 # Version-Control-Skills-lab-6
-name_input askes user for a name and then prints it out.
+name_input asks user for a name and stores input.
